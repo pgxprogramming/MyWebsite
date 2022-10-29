@@ -43,6 +43,7 @@ hr {
 .top-container {
   background-color: #83ebeb;
   position: relative;
+  width: 100wh;
 }
 
 .cloud-top {
@@ -114,7 +115,9 @@ hr {
   color: #11999E;
   text-decoration: none;
 }
-
+.mail{
+  margin-top: -1rem;
+}
 .btn {
   background: #11CDD4;
   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
